@@ -1,4 +1,3 @@
-# DramaMovBot
 # DramaMovBot – Bot Nonton Drama Korea, Drama China & Film Terbaru Subtitle Indonesia
 
 **DramaMovBot** adalah bot hiburan yang membantu kamu menemukan dan menikmati **drama Korea (Drakor), drama China (Cdrama), dan film terbaru** dengan cepat, mudah, dan update setiap hari.
