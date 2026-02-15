@@ -1,134 +1,203 @@
-# DramaMovBot – Bot Nonton Drama Korea, Drama China & Film Terbaru Subtitle Indonesia
+# DramaMovBot – Bot Telegram Nonton Drama Korea Subtitle Indonesia, Drama China & Film Terbaru HD
 
-**DramaMovBot** adalah bot hiburan yang membantu kamu menemukan dan menikmati **drama Korea (Drakor), drama China (Cdrama), dan film terbaru** dengan cepat, mudah, dan update setiap hari.
+🎬 **DramaMovBot** adalah **bot Telegram nonton drama Korea (drakor) subtitle Indonesia**, **drama China (cdrama)**, dan **film terbaru HD** yang update setiap hari.
 
-Dengan DramaMovBot, kamu bisa cari judul favorit, lihat episode terbaru, dan mendapatkan rekomendasi tontonan trending langsung dari bot.
+Bot ini cocok untuk kamu yang ingin:
+- nonton drakor sub indo tanpa ribet
+- cari drama China terbaru subtitle Indonesia
+- update film terbaru yang baru rilis
+- dapat rekomendasi drama Korea trending
 
----
-
-## 🔥 DramaMovBot Bisa Apa?
-
-DramaMovBot dirancang untuk pecinta:
-- 🎬 Drama Korea terbaru subtitle Indonesia
-- 🇨🇳 Drama China update terbaru
-- 🍿 Film terbaru HD
-- ⭐ Drama & film trending
-- 📌 Rekomendasi tontonan populer
+👉 Link Bot Telegram: https://t.me/DramaMovBot  
+📢 Channel Update: https://t.me/syscodes  
+💬 Grup Request Drama/Film: https://t.me/Syscodeid  
 
 ---
 
-## 🚀 Fitur Utama DramaMovBot
+## 🔥 DramaMovBot (Bot Telegram Drakor Sub Indo) – Update Setiap Hari
 
-- ✅ Cari drama Korea sub indo berdasarkan judul
-- ✅ Cari drama China subtitle Indonesia
-- ✅ Update episode terbaru setiap hari
-- ✅ Rekomendasi drama Korea trending
-- ✅ Rekomendasi drama China terbaik
-- ✅ Koleksi film terbaru dan populer
-- ✅ Bot ringan, cepat, dan mudah digunakan
+DramaMovBot dibuat khusus untuk penggemar:
+
+✅ **Nonton drama Korea subtitle Indonesia**  
+✅ **Nonton drama China subtitle Indonesia**  
+✅ **Streaming film terbaru HD**  
+✅ **Update drama ongoing setiap hari**  
+✅ **Drama Korea trending & populer**  
+✅ **Drama China historical / romance**  
 
 ---
 
-## 🎥 Kategori yang Tersedia
+## ⭐ Kenapa DramaMovBot Banyak Dicari?
 
-DramaMovBot menyediakan berbagai kategori hiburan seperti:
+DramaMovBot membantu pengguna menemukan tontonan favorit dengan cepat, karena:
 
-### 🇰🇷 Drama Korea (Drakor)
+- Bot Telegram cepat dan ringan
+- Tidak perlu aplikasi tambahan
+- Bisa dipakai langsung dari Telegram
+- Ada channel update drama & film terbaru
+- Ada grup request untuk request judul tertentu
+
+---
+
+## 🇰🇷 Nonton Drama Korea Sub Indo (Drakor Terbaru)
+
+DramaMovBot menyediakan koleksi **drama Korea terbaru** dari berbagai genre:
+
 - Romance
+- Comedy
 - Action
 - Thriller
-- Comedy
 - Fantasy
 - School / Youth
-- Historical (Sageuk)
+- Sageuk (Historical)
 
-### 🇨🇳 Drama China (Cdrama)
-- Romance
-- Historical
+🔥 Keyword populer:
+- nonton drama korea sub indo
+- drakor terbaru hari ini
+- drama korea ongoing update
+- drama korea subtitle indonesia
+- rekomendasi drakor terbaik
+
+---
+
+## 🇨🇳 Nonton Drama China Subtitle Indonesia (Cdrama Terbaru)
+
+DramaMovBot juga cocok untuk pecinta **cdrama**:
+
+- Drama China Romance
+- Drama China Historical
 - Wuxia
 - Xianxia
 - Modern Drama
-- Family / Slice of Life
+- Family Drama
 
-### 🎞️ Film
+🔥 Keyword populer:
+- drama china subtitle indonesia
+- cdrama terbaru update
+- nonton drama china sub indo
+- drama china romantis terbaru
+- drama china historical terbaik
+
+---
+
+## 🎞️ Nonton Film Terbaru HD (Update Rutin)
+
+DramaMovBot menyediakan informasi & akses film:
+
 - Film Action
 - Film Horor
 - Film Komedi
 - Film Romance
-- Film Barat & Asia
-- Film Box Office Terbaru
+- Film Barat
+- Film Asia
+- Film Box Office terbaru
 
----
-
-## 🔎 Keyword Populer (SEO Boost)
-
-Berikut keyword yang sering dicari pengguna di Google:
-
-- nonton drama korea sub indo
-- drakor terbaru update setiap hari
-- drama china subtitle indonesia
-- nonton cdrama terbaru
+🔥 Keyword populer:
 - film terbaru hd
-- streaming drama korea
-- nonton film gratis
-- drama korea trending 2026
-- drama china terbaik sepanjang masa
-
-> Keyword populer.
+- nonton film terbaru 2026
+- film bioskop terbaru
+- streaming film gratis
+- film terbaru yang baru rilis
 
 ---
 
-## 🤖 Cara Menggunakan DramaMovBot
+## 📌 Drama Korea Trending & Drama China Populer
 
-1. Klik link bot: **[https://t.me/DramaMovBot]**
-2. Pilih menu:
+DramaMovBot fokus pada:
+- Drama Korea trending minggu ini
+- Drama Korea rating tertinggi
+- Drama China viral di TikTok
+- Drama China terbaik sepanjang masa
+- Film terbaru yang sedang ramai
+
+---
+
+## 🤖 Cara Pakai DramaMovBot (Bot Telegram)
+
+1) Buka Telegram  
+2) Klik bot: https://t.me/DramaMovBot  
+3) Pilih kategori:
    - Drama Korea
    - Drama China
    - Film
-3. Cari judul favorit kamu
-4. Klik episode / film dan nikmati tontonanmu
+4) Cari judul favorit
+5) Tonton dan nikmati 🎬
 
 ---
 
-## 📌 Update Drama Korea & Drama China Terbaru
+## 💬 Grup Request Drama Korea, Drama China, dan Film
 
-DramaMovBot update konten secara rutin untuk:
-- Episode terbaru drama ongoing
-- Drama Korea terbaru 2026
-- Drama China terbaru 2026
-- Film terbaru minggu ini
-- Rekomendasi drama trending
+Jika kamu ingin request drama/film:
 
----
+👉 Join grup request: https://t.me/Syscodeid  
 
-## ⭐ Kenapa Harus DramaMovBot?
-
-Karena DramaMovBot dibuat untuk:
-- Pecinta drakor sub indo
-- Pecinta cdrama subtitle Indonesia
-- Pecinta film terbaru
-- Pengguna yang ingin nonton cepat tanpa ribet
+Kamu bisa request:
+- drama Korea terbaru sub indo
+- drama China subtitle Indonesia
+- film terbaru HD
+- drama ongoing yang belum ada
 
 ---
 
-## ❓ FAQ (Pertanyaan Umum)
+## 📢 Channel Update Drama & Film Terbaru (Wajib Join)
 
-### Apakah DramaMovBot update drama Korea terbaru?
-Ya, DramaMovBot update episode terbaru setiap hari.
+Agar tidak ketinggalan update episode terbaru:
 
-### Apakah DramaMovBot menyediakan subtitle Indonesia?
-Ya, drama dan film tersedia subtitle Indonesia (jika tersedia dari sumber).
+👉 Join channel: https://t.me/syscodes  
+
+Di channel ini kamu akan dapat:
+- update drama Korea terbaru
+- update drama China terbaru
+- film terbaru yang baru diupload
+- info episode terbaru
+
+---
+
+## ❓ FAQ (Pertanyaan yang Sering Dicari di Google)
+
+### Apakah DramaMovBot bot Telegram untuk nonton drakor sub indo?
+Ya, DramaMovBot adalah bot Telegram yang membantu pengguna menemukan drama Korea subtitle Indonesia.
+
+### Apakah DramaMovBot update drama Korea terbaru setiap hari?
+Ya, bot update drama ongoing dan drama terbaru secara rutin.
+
+### Apakah DramaMovBot menyediakan drama China subtitle Indonesia?
+Ya, tersedia drama China (cdrama) subtitle Indonesia jika tersedia dari sumber.
 
 ### Apakah DramaMovBot gratis?
-Ya, bot dapat digunakan gratis.
+Ya, bot dapat digunakan secara gratis di Telegram.
 
 ---
 
-## 💬 Support & Request Drama
+## 🔎 Keyword SEO (Long Tail Keywords)
 
-Kalau kamu ingin request drama / film, hubungi:
-- Telegram: **@Faisal16_Nw**
-- Email: **veifaisal16@gmail.com**
+DramaMovBot keyword:
+
+- bot telegram nonton drama korea subtitle indonesia
+- bot telegram drakor sub indo terbaru
+- bot telegram drama china subtitle indonesia
+- bot telegram nonton film terbaru hd
+- bot telegram streaming drama korea gratis
+- bot drakor telegram update setiap hari
+- bot cdrama telegram subtitle indonesia
+- bot telegram rekomendasi drama korea trending
+
+---
+
+## 🏷️ GitHub Topics (SEO Booster)
+
+Topic:
+
+drama-korea  
+drakor  
+drama-korea-sub-indo  
+drama-china  
+cdrama  
+film-terbaru  
+subtitle-indonesia  
+telegram-bot  
+nonton-drakor  
+streaming  
 
 ---
 
@@ -136,20 +205,14 @@ Kalau kamu ingin request drama / film, hubungi:
 
 DramaMovBot dibuat untuk tujuan hiburan dan informasi.
 
-Jika ada konten yang melanggar hak cipta, silakan hubungi kami untuk penghapusan.
+Jika ada konten yang melanggar hak cipta, silakan hubungi admin untuk penghapusan.
 
 ---
 
-## ❤️ Dukung DramaMovBot
+## ❤️ Support DramaMovBot
 
 Kalau kamu suka bot ini:
-- Berikan ⭐ di repository ini
+- Berikan ⭐ pada repository GitHub
 - Share ke teman pecinta drakor & cdrama
-- Bantu repo ini naik di Google Search
+- Join channel update agar tidak ketinggalan episode terbaru
 
----
-
-## 📌 Tags / Topics (Rekomendasi)
-
-Topics Terpopuler:
-`drama-korea` `drakor` `cdrama` `drama-china` `film-terbaru` `subtitle-indonesia` `nonton-drakor` `streaming`
