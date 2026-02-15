@@ -74,13 +74,13 @@ Berikut keyword yang sering dicari pengguna di Google:
 - drama korea trending 2026
 - drama china terbaik sepanjang masa
 
-> Keyword ini sengaja dimasukkan agar repository GitHub lebih mudah muncul di pencarian Google.
+> Keyword populer.
 
 ---
 
 ## 🤖 Cara Menggunakan DramaMovBot
 
-1. Klik link bot: **[LINK_BOT_KAMU]**
+1. Klik link bot: **[https://t.me/DramaMovBot]**
 2. Pilih menu:
    - Drama Korea
    - Drama China
@@ -127,8 +127,8 @@ Ya, bot dapat digunakan gratis.
 ## 💬 Support & Request Drama
 
 Kalau kamu ingin request drama / film, hubungi:
-- Telegram: **@usernamekamu**
-- Email: **emailkamu@example.com**
+- Telegram: **@Faisal16_Nw**
+- Email: **veifaisal16@gmail.com**
 
 ---
 
@@ -151,5 +151,5 @@ Kalau kamu suka bot ini:
 
 ## 📌 Tags / Topics (Rekomendasi)
 
-Tambahkan topics ini di GitHub:
+Topics Terpopuler:
 `drama-korea` `drakor` `cdrama` `drama-china` `film-terbaru` `subtitle-indonesia` `nonton-drakor` `streaming`
