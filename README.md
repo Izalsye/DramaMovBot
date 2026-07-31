@@ -9,7 +9,7 @@ Bot ini cocok untuk kamu yang ingin:
 - dapat rekomendasi drama Korea trending
 
 👉 Link Bot Telegram: https://t.me/DramaMovBot  
-🔥 Link Web: https://mov.sendding.com
+🔥 Link Web: https://mov.sendding.com  
 📢 Channel Update: https://t.me/syscodes  
 💬 Grup Request Drama/Film: https://t.me/Syscodeid  
 
